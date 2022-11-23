@@ -1,0 +1,4 @@
+grafana-dev-i7bs: 172.17.0.2:3100
+nodered-dev-8z28: 172.17.0.5:1980
+influxdb-dev-d9ps: 172.17.0.3:8187
+influxdb-dev-ce1v: 172.17.0.4:8186
